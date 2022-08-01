@@ -1,7 +1,7 @@
 {
   "promotionRoutes": {
-    "SUN": "SEC East",
-    "MAC": "B10",
+    "SUN": "SEC West",
+    "MAC": "B1G East",
     "COL": "ACC",
     "CUSA": "B12",
     "MWC": "PAC",
@@ -9,8 +9,8 @@
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "SEC East": "SUN",
-    "B10": "MAC",
+    "SEC West": "SUN",
+    "B1G East": "MAC",
     "ACC": "COL",
     "B12": "CUSA",
     "PAC": "MWC",
@@ -18,9 +18,9 @@
   },
   "conferences": [
     {
-      "confFullName": "Southeastern Conference East",
-      "confPrestige": "95",
-      "confName": "SEC East",
+      "confFullName": "Southeastern Conference West",
+      "confPrestige": "94",
+      "confName": "SEC West",
       "confTeams": [
         {
           "name": "Alabama",
@@ -131,9 +131,9 @@
       ]
     },
     {
-        "confFullName": "Big 10",
-        "confPrestige": "95",
-        "confName": "B10",
+        "confFullName": "Big Ten East",
+        "confPrestige": "90",
+        "confName": "B1G East",
         "confTeams": [
             {
               "name": "Illinois",
