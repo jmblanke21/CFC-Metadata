@@ -3,7 +3,7 @@
     "SUN": "SEC West",
     "MAC": "B1G East",
     "COL": "ACC",
-    "CUSA": "B12",
+    "CUSA": "XII",
     "MWC": "PAC",
     "AAC": "GWC"
   },
@@ -12,7 +12,7 @@
     "SEC West": "SUN",
     "B1G East": "MAC",
     "ACC": "COL",
-    "B12": "CUSA",
+    "XII": "CUSA",
     "PAC": "MWC",
     "AAC": "GWC"
   },
@@ -240,8 +240,8 @@
         ]
     },
     {
-        "confFullName": "Atlantic Coast",
-        "confPrestige": "90",
+        "confFullName": "Atlantic Coastal Conference",
+        "confPrestige": "80",
         "confName": "ACC",
         "confTeams": [
             {
@@ -337,9 +337,9 @@
         ]
     },
     {
-        "confFullName": "Big 12",
-        "confPrestige": "90",
-        "confName": "B12",
+        "confFullName": "Big 12 Conference",
+        "confPrestige": "82",
+        "confName": "XII",
         "confTeams": [
             {
                 "name": "Baylor",
