@@ -1,6 +1,6 @@
 {
   "promotionRoutes": {
-    "SUN": "SECE",
+    "SUN": "SEC E",
     "MAC": "B10",
     "COL": "ACC",
     "CUSA": "B12",
@@ -9,7 +9,7 @@
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "SECE": "SUN",
+    "SEC E": "SUN",
     "B10": "MAC",
     "ACC": "COL",
     "B12": "CUSA",
@@ -20,7 +20,7 @@
     {
       "confFullName": "Southeastern",
       "confPrestige": "95",
-      "confName": "SECE",
+      "confName": "SEC E",
       "confTeams": [
         {
           "name": "Alabama",
