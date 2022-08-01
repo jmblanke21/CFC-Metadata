@@ -1,26 +1,26 @@
 {
   "promotionRoutes": {
-    "SUN": "SEC West",
-    "MAC": "B1G East",
+    "SUN": "SEC",
+    "MAC": "B10",
     "COL": "ACC",
-    "CUSA": "XII",
+    "CUSA": "B12",
     "MWC": "PAC",
     "AAC": "GWC"
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "SEC West": "SUN",
-    "B1G East": "MAC",
+    "SEC": "SUN",
+    "B10": "MAC",
     "ACC": "COL",
-    "XII": "CUSA",
+    "B12": "CUSA",
     "PAC": "MWC",
     "AAC": "GWC"
   },
   "conferences": [
     {
-      "confFullName": "Southeastern Conference West",
-      "confPrestige": "94",
-      "confName": "SEC West",
+      "confFullName": "Southeastern",
+      "confPrestige": "95",
+      "confName": "SEC",
       "confTeams": [
         {
           "name": "Alabama",
@@ -131,9 +131,9 @@
       ]
     },
     {
-        "confFullName": "Big Ten East",
-        "confPrestige": "90",
-        "confName": "B1G East",
+        "confFullName": "Big 10",
+        "confPrestige": "95",
+        "confName": "B10",
         "confTeams": [
             {
               "name": "Illinois",
@@ -240,8 +240,8 @@
         ]
     },
     {
-        "confFullName": "Atlantic Coastal Conference",
-        "confPrestige": "80",
+        "confFullName": "Atlantic Coast",
+        "confPrestige": "90",
         "confName": "ACC",
         "confTeams": [
             {
@@ -337,9 +337,9 @@
         ]
     },
     {
-        "confFullName": "Big 12 Conference",
-        "confPrestige": "82",
-        "confName": "XII",
+        "confFullName": "Big 12",
+        "confPrestige": "90",
+        "confName": "B12",
         "confTeams": [
             {
                 "name": "Baylor",
@@ -1214,33 +1214,33 @@
     "Rose Bowl",
     "Orange Bowl",
     "Sugar Bowl",
-    "Fiesta Bowl",
+    "Fiesta Bowl”,
     "Cotton Bowl",
     "Peach Bowl",
     "Citrus Bowl",
     "Alamo Bowl",
     "Outback Bowl",
-    "Holiday Bowl",
+    "Holiday Bowl”,
     "Tangerine Bowl",
     "Gasparilla Bowl",
     "Sunshine Bowl",
-    "Pinstripe Bowl",
+    "Pinstripe Bowl”,
     "Gator Bowl",
     "Liberty Bowl",
     "Military Bowl",
     "Armed Forces Bowl",
     "Independence Bowl",
     "Music City Bowl",
-    "Queen City Bowl",
-    "Motor City Bowl",
-    "Heart of Dallas Bowl"
+    “Queen City Bowl",
+    “Motor City Bowl",
+    “Heart of Dallas Bowl",
     "Las Vegas Bowl",
-    "San Francisco Bowl",
+    “San Francisco Bowl”,
     "New Orleans Bowl",
     "Birmingham Bowl",
     "Mobile Bowl",
     "Hawaii Bowl",
-    "Bahamas Bowl",
+    "Bahamas Bowl”,
     "New Mexico Bowl",
     "Idaho Bowl",
   ]
