@@ -1,9 +1,10 @@
-{
   "promotionRoutes": {
     "SUN": "SEC West",
     "MAC": "B1G East",
     "COL": "ACC",
     "CUSA": "XII",
+    "MWC": "PAC",
+    "AAC": "GWC"
   },
   "baseYear": 2022,
   "relegationRoutes": {
@@ -11,6 +12,8 @@
     "B1G East": "MAC",
     "ACC": "COL",
     "XII": "CUSA",
+    "PAC": "MWC",
+    "AAC": "GWC"
   },
   "conferences": [
     {
