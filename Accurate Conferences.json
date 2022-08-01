@@ -1,26 +1,26 @@
 {
-"baseYear": 2022,
-”promotionRoutes": {
-    “SUNE": “SECE",
-    “SUNW": “SECW",
-    "MAC": “B1GE",
-    "PAC": “B1GW",
-    "MWC": "XII",
-    "COL": "ACC"
-},
-"relegationRoutes": {
-    “SECE": “SUNE",
-    “SECW": “SUNW",
-    “B1GE": "MAC",
-    “B1GW": "PAC",
-    "XII": "MWC",
-    "ACC": “COL"
-},
+  "promotionRoutes": {
+    "SUN": "SEC",
+    "MAC": "B10",
+    "COL": "ACC",
+    "CUSA": "B12",
+    "MWC": "PAC",
+    "AAC": "GWC"
+  },
+  "baseYear": 2022,
+  "relegationRoutes": {
+    "SEC": "SUN",
+    "B10": "MAC",
+    "ACC": "COL",
+    "B12": "CUSA",
+    "PAC": "MWC",
+    "AAC": "GWC"
+  },
   "conferences": [
     {
-      "confFullName": "Southeastern Conference East",
-      "confPrestige": "92",
-      "confName": “SECE"
+      "confFullName": "Southeastern",
+      "confPrestige": "95",
+      "confName": "SEC",
       "confTeams": [
         {
           "name": "Alabama",
@@ -131,9 +131,9 @@
       ]
     },
     {
-      "confFullName": "Southeastern Conference West",
-      "confPrestige": "94",
-      "confName": “SECW"
+        "confFullName": "Big 10",
+        "confPrestige": "95",
+        "confName": "B10",
         "confTeams": [
             {
               "name": "Illinois",
@@ -240,9 +240,9 @@
         ]
     },
     {
-      "confFullName": "Big Ten East",
-      "confPrestige": "90",
-      "confName": “B1GE"
+        "confFullName": "Atlantic Coast",
+        "confPrestige": "90",
+        "confName": "ACC",
         "confTeams": [
             {
                 "name": "Clemson",
@@ -337,9 +337,9 @@
         ]
     },
     {
-      "confFullName": "Big Ten West",
-      "confPrestige": "88",
-      "confName": “B1GW"
+        "confFullName": "Big 12",
+        "confPrestige": "90",
+        "confName": "B12",
         "confTeams": [
             {
                 "name": "Baylor",
@@ -434,9 +434,9 @@
         ]
     },
     {
-      "confFullName": "Big 12 Conference",
-      "confPrestige": "82",
-      "confName": "XII"
+        "confFullName": "Pacific Coast",
+        "confPrestige": "85",
+        "confName": "PAC",
         "confTeams": [
             {
                 "name": "California",
@@ -531,9 +531,9 @@
         ]
     },
     {
-      "confFullName": "Atlantic Coastal Conference",
-      "confPrestige": "80",
-      "confName": "ACC"
+        "confFullName": "Great West",
+        "confPrestige": "85",
+        "confName": "GWC",
         "confTeams": [
             {
                 "name": "Air Force",
@@ -628,9 +628,9 @@
         ]
     },
     {
-      "confFullName": "Middle American Conference",
-      "confPrestige": "64",
-      "confName": "MAC"
+        "confFullName": "Sun Belt",
+        "confPrestige": "70",
+        "confName": "SUN",
         "confTeams": [
             {
                 "name": "Appalachian State",
@@ -725,9 +725,9 @@
         ]
     },
     {
-      "confFullName": "Pacific 10",
-      "confPrestige": "74",
-      "confName": “PAC"
+        "confFullName": "Mid American",
+        "confPrestige": "65",
+        "confName": "MAC",
         "confTeams": [
             {
                 "name": "Akron",
@@ -822,9 +822,9 @@
         ]
     },
     {
-      "confFullName": "Mountain West Conference",
-      "confPrestige": "72",
-      "confName": "MWC"
+        "confFullName": "Colonial",
+        "confPrestige": "80",
+        "confName": "COL",
         "confTeams": [
             {
                 "name": "Army",
@@ -919,9 +919,9 @@
         ]
     },
     {
-      "confFullName": “Colonial Athletic Conference",
-      "confPrestige": "66",
-      "confName": “COL"
+        "confFullName": "Conference USA",
+        "confPrestige": "65",
+        "confName": "CUSA",
         "confTeams": [
             {
                 "name": "Charlotte",
@@ -1016,9 +1016,9 @@
         ]
     },
     {
-      "confFullName": "Sun Belt East",
-      "confPrestige": "62",
-      "confName": “SUN East"
+        "confFullName": "Mountain West",
+        "confPrestige": "70",
+        "confName": "MWC",
         "confTeams": [
             {
                 "name": "Boise State",
@@ -1113,9 +1113,9 @@
         ]
     },
     {
-      "confFullName": "Sun Belt West",
-      "confPrestige": "68",
-      "confName": “SUN West"
+        "confFullName": "American Athletic",
+        "confPrestige": "75",
+        "confName": "AAC",
         "confTeams": [
             {
                 "name": "East Carolina",
