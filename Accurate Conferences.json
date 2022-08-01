@@ -1,18 +1,18 @@
 {
 "baseYear": 2022,
 ”promotionRoutes": {
-    “SUN East": “SEC East",
-    “SUN West": “SEC West",
-    "MAC": “B1G East",
-    "PAC": “B1G West",
+    “SUNE": “SECE",
+    “SUNW": “SECW",
+    "MAC": “B1GE",
+    "PAC": “B1GW",
     "MWC": "XII",
     "COL": "ACC"
 },
 "relegationRoutes": {
-    “SEC East": “SUN East",
-    “SEC West": “SUN West",
-    “B1G East": "MAC",
-    “B1G West": "PAC",
+    “SECE": “SUNE",
+    “SECW": “SUNW",
+    “B1GE": "MAC",
+    “B1GW": "PAC",
     "XII": "MWC",
     "ACC": “COL"
 },
@@ -20,7 +20,7 @@
     {
       "confFullName": "Southeastern Conference East",
       "confPrestige": "92",
-      "confName": “SEC East"
+      "confName": “SECE"
       "confTeams": [
         {
           "name": "Alabama",
@@ -133,7 +133,7 @@
     {
       "confFullName": "Southeastern Conference West",
       "confPrestige": "94",
-      "confName": “SEC West"
+      "confName": “SECW"
         "confTeams": [
             {
               "name": "Illinois",
@@ -242,7 +242,7 @@
     {
       "confFullName": "Big Ten East",
       "confPrestige": "90",
-      "confName": “B1G East"
+      "confName": “B1GE"
         "confTeams": [
             {
                 "name": "Clemson",
@@ -339,7 +339,7 @@
     {
       "confFullName": "Big Ten West",
       "confPrestige": "88",
-      "confName": “B1G West"
+      "confName": “B1GW"
         "confTeams": [
             {
                 "name": "Baylor",
