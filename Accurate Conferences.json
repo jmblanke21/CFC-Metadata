@@ -1,25 +1,21 @@
 {
 "baseYear": 2022,
-"promotionRoutes": {
-    “ACC”: “SEC East",
-    “XII”: “SEC West",
-    “MAC”: “B1G East",
-    “PAC”: “B1G West",
-    “SUN East”: "ACC"
-    “SUN West”: “XII”,
-    “COL“: “MAC”,
-    “MWC”: “PAC"
+”promotionRoutes": {
+    “SUN East": “SEC East",
+    “SUN West": “SEC West",
+    "MAC": “B1G East",
+    "PAC": “B1G West",
+    "MWC": "XII",
+    "COL": "ACC"
 },
 "relegationRoutes": {
-    “SEC East": “ACC”,
-    “SEC West": “XII,
-    “B1G East": “MAC”,
+    “SEC East": “SUN East",
+    “SEC West": “SUN West",
+    “B1G East": "MAC",
     “B1G West": "PAC",
-    "ACC": “SUN East“
-    "XII": “SUN West”,
-    “MAC”: “COL“,
-    “PAC”: “MWC”
-  },
+    "XII": "MWC",
+    "ACC": “COL"
+},
   "conferences": [
     {
       "confFullName": "Southeastern Conference East",
