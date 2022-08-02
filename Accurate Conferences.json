@@ -456,7 +456,7 @@
                 "name": "Oregon Ducks",
                 "state": "Oregon",
                 "abbreviation": "ORE",
-                "rival": ["ORSU"],
+                "rival": ["ORST"],
                 "rivalryNames": {},
                 "prestige": "84",
                 "hexColor": "#154733"
@@ -464,7 +464,7 @@
               {
                 "name": "Oregon State Beavers",
                 "state": "Oregon",
-                "abbreviation": "ORSU",
+                "abbreviation": "ORST",
                 "rival": ["ORE"],
                 "rivalryNames": {},
                 "prestige": "67",
@@ -513,7 +513,7 @@
               {
                 "name": "Washington Huskies",
                 "state": "Washington",
-                "abbreviation": "WASH",
+                "abbreviation": "UW",
                 "rival": ["WSU"],
                 "rivalryNames": {},
                 "prestige": "80",
@@ -523,7 +523,7 @@
                 "name": "Washington State Cougars",
                 "state": "Washington",
                 "abbreviation": "WSU",
-                "rival": ["WASH"],
+                "rival": ["UW"],
                 "rivalryNames": {},
                 "prestige": "71",
                 "hexColor": "#981E32"
