@@ -734,12 +734,12 @@
         "confName": "SUN",
         "confTeams": [
             {
-                "name": "Appalachian State",
+                "name": "Appalachian State Mountaineers",
                 "state": "North Carolina",
-                "abbreviation": "APP",
+                "abbreviation": "APPST",
                 "rival": ["CCU"],
                 "rivalryNames": {},
-                "prestige": "75",
+                "prestige": "73",
                 "hexColor": "#222222"
               },
               {
@@ -755,7 +755,7 @@
                 "name": "Coastal Carolina",
                 "state": "South Carolina",
                 "abbreviation": "CCU",
-                "rival": ["APP"],
+                "rival": ["APPST"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#006F71"
