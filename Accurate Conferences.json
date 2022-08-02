@@ -631,6 +631,103 @@
            }
         ]
     },
+        {
+        "confFullName": "Colonial",
+        "confPrestige": "80",
+        "confName": "COL",
+        "confTeams": [
+            {
+                "name": "Army Black Knights",
+                "state": "New York",
+                "abbreviation": "ARMY",
+                "rival": ["NAVY"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#D4BF91"
+              },
+              {
+                "name": "Navy Midshipmen",
+                "state": "Maryland",
+                "abbreviation": "NAVY",
+                "rival": ["ARMY"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#00205B"
+              },
+              {
+                "name": "Notre Dame Fighting Irish",
+                "state": "Indiana",
+                "abbreviation": "ND",
+                "rival": ["PITT"],
+                "rivalryNames": {},
+                "prestige": "86",
+                "hexColor": "#0C2340"
+              },
+              {
+                "name": "Maryland Terrapins",
+                "state": "Maryland",
+                "abbreviation": "MD",
+                "rival": ["BC"],
+                "rivalryNames": {},
+                "prestige": "73",
+                "hexColor": "#E03A3E"
+              },
+              {
+                "name": "Boston College Eagles",
+                "state": "Massachusetts",
+                "abbreviation": "BC",
+                "rival": ["MD"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#98002E"
+              },
+              {
+                "name": "Central Florida Knights",
+                "state": "Florida",
+                "abbreviation": "UCF",
+                "rival": ["SC"],
+                "rivalryNames": {},
+                "prestige": "78",
+                "hexColor": "#BA9B37"
+              },
+              {
+                "name": "Kentucky Wildcats",
+                "state": "Kentucky",
+                "abbreviation": "UK",
+                "rival": ["LOU"],
+                "rivalryNames": {},
+                "prestige": "78",
+                "hexColor": "#0033A0"
+              },
+              {
+                "name": "Louisville Cardinals",
+                "state": "Kentucky",
+                "abbreviation": "LOU",
+                "rival": ["UK"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#AD0000"
+              },
+              {
+                "name": "Pittsburgh Panthers",
+                "state": "Pennsylvania",
+                "abbreviation": "PITT",
+                "rival": ["ND"],
+                "rivalryNames": {},
+                "prestige": "79",
+                "hexColor": "#003594"
+              },
+              {
+                "name": "South Carolina Gamecocks",
+                "state": "South Carolina",
+                "abbreviation": "SC",
+                "rival": ["UCF"],
+                "rivalryNames": {},
+                "prestige": "72",
+                "hexColor": "#73000A"
+              }
+        ]
+    },
     {
         "confFullName": "Sun Belt",
         "confPrestige": "70",
@@ -822,103 +919,6 @@
                 "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#6C4023"
-              }
-        ]
-    },
-    {
-        "confFullName": "Colonial",
-        "confPrestige": "80",
-        "confName": "COL",
-        "confTeams": [
-            {
-                "name": "Army",
-                "state": "New York",
-                "abbreviation": "ARMY",
-                "rival": ["NAVY"],
-                "rivalryNames": {},
-                "prestige": "70",
-                "hexColor": "#D4BF91"
-              },
-              {
-                "name": "Boston College",
-                "state": "Massachusetts",
-                "abbreviation": "BC",
-                "rival": ["MARY"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#98002E"
-              },
-              {
-                "name": "Central Florida",
-                "state": "Florida",
-                "abbreviation": "UCF",
-                "rival": ["SC"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#BA9B37"
-              },
-              {
-                "name": "Kentucky",
-                "state": "Kentucky",
-                "abbreviation": "UK",
-                "rival": ["LOU"],
-                "rivalryNames": {},
-                "prestige": "85",
-                "hexColor": "#0033A0"
-              },
-              {
-                "name": "Louisville",
-                "state": "Kentucky",
-                "abbreviation": "LOU",
-                "rival": ["UK"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#AD0000"
-              },
-              {
-                "name": "Maryland",
-                "state": "Maryland",
-                "abbreviation": "MARY",
-                "rival": ["BC"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#E03A3E"
-              },
-              {
-                "name": "Navy",
-                "state": "Maryland",
-                "abbreviation": "NAVY",
-                "rival": ["ARMY"],
-                "rivalryNames": {},
-                "prestige": "75",
-                "hexColor": "#00205B"
-              },
-              {
-                "name": "Notre Dame",
-                "state": "Indiana",
-                "abbreviation": "ND",
-                "rival": ["PITT"],
-                "rivalryNames": {},
-                "prestige": "90",
-                "hexColor": "#0C2340"
-              },
-              {
-                "name": "Pittsburgh",
-                "state": "Pennsylvania",
-                "abbreviation": "PITT",
-                "rival": ["ND"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#003594"
-              },
-              {
-                "name": "South Carolina",
-                "state": "South Carolina",
-                "abbreviation": "SC",
-                "rival": ["UCF"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#73000A"
               }
         ]
     },
