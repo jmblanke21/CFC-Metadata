@@ -52,7 +52,7 @@
           "rivalryNames": {
               "AUB": "Iron Bowl"
           },
-          "prestige": "96",
+          "prestige": "95",
           "hexColor": "#9E1B32"
         },
         {
@@ -72,7 +72,7 @@
           "abbreviation": "ARK",
           "rival": ["LSU"],
           "rivalryNames": {},
-          "prestige": "85",
+          "prestige": "74",
           "hexColor": "#9D2235"
         },
         {
@@ -81,7 +81,7 @@
             "abbreviation": "LSU",
             "rival": ["ARK"],
             "rivalryNames": {},
-            "prestige": "74",
+            "prestige": "92",
             "hexColor": "#461D7C"
         },
         {
