@@ -217,7 +217,7 @@
                   "hexColor": "#7A0019"
               },
               {
-                  "name": "Wisconsin",
+                  "name": "Wisconsin Badgers",
                   "state": "Wisconsin",
                   "abbreviation": "WISC",
                   "rival": ["MINN"],
@@ -233,93 +233,97 @@
         "confName": "ACC",
         "confTeams": [
             {
-                "name": "Clemson",
+                "name": "Clemson Tigers",
                 "state": "South Carolina",
                 "abbreviation": "CLEM",
-                "rival": ["GTU"],
+                "rival": ["GT"],
                 "rivalryNames": {},
-                "prestige": "95",
+                "prestige": "91",
                 "hexColor": "#F56600"
               },
               {
-                  "name": "Duke",
+                  "name": "Duke Blue Devils",
                   "state": "North Carolina",
                   "abbreviation": "DUKE",
                   "rival": ["UNC"],
                   "rivalryNames": {},
-                  "prestige": "80",
+                  "prestige": "70",
                   "hexColor": "#003087"
               },
               {
-                  "name": "Florida State",
+                  "name": "Florida State Seminoles",
                   "state": "Florida",
                   "abbreviation": "FSU",
                   "rival": ["MIA"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "78",
                   "hexColor": "#782F40"
               },
               {
-                  "name": "Georgia Tech",
+                  "name": "Georgia Tech Yellow Jackets",
                   "state": "Georgia",
-                  "abbreviation": "GTU",
+                  "abbreviation": "GT",
                   "rival": ["CLEM"],
                   "rivalryNames": {},
-                  "prestige": "80",
+                  "prestige": "69",
                   "hexColor": "#B3A369"
               },
               {
-                  "name": "Miami",
+                  "name": "Miami Hurricanes",
                   "state": "Florida",
                   "abbreviation": "MIA",
                   "rival": ["FSU"],
                   "rivalryNames": {},
-                  "prestige": "90",
+                  "prestige": "82",
                   "hexColor": "#F47321"
               },
               {
-                  "name": "North Carolina",
+                  "name": "North Carolina Tar Heels",
                   "state": "North Carolina",
                   "abbreviation": "UNC",
                   "rival": ["DUKE"],
                   "rivalryNames": {},
-                  "prestige": "80",
+                  "prestige": "74",
                   "hexColor": "#7BAFD4"
               },
               {
-                  "name": "North Carolina State",
+                  "name": "North Carolina State Wolfpack",
                   "state": "North Carolina",
                   "abbreviation": "NCST",
-                  "rival": ["WFU"],
+                  "rival": ["WF"],
                   "rivalryNames": {},
-                  "prestige": "80",
+                  "prestige": "73",
                   "hexColor": "#CC0000"
               },
               {
-                  "name": "Virginia",
+                  "name": "Virginia Cavaliers",
                   "state": "Virginia",
                   "abbreviation": "UVA",
                   "rival": ["VT"],
-                  "rivalryNames": {},
-                  "prestige": "85",
+                  "rivalryNames": {
+                      "VT": "Commonwealth Clash"
+                  },
+                  "prestige": "72",
                   "hexColor": "#232D4B"
               },
               {
-                  "name": "Virginia Tech",
+                  "name": "Virginia Tech Hokies",
                   "state": "Virginia",
                   "abbreviation": "VT",
                   "rival": ["UVA"],
-                  "rivalryNames": {},
+                  "rivalryNames": {
+                      "UVA": "Commonwealth Clash"
+                  },
                   "prestige": "80",
                   "hexColor": "#630031"
               },
               {
-                  "name": "Wake Forest",
+                  "name": "Wake Forest Demon Deacons",
                   "state": "North Carolina",
-                  "abbreviation": "WFU",
+                  "abbreviation": "WF",
                   "rival": ["NCST"],
                   "rivalryNames": {},
-                  "prestige": "80",
+                  "prestige": "75",
                   "hexColor": "#9E7E38"
               }
         ]
@@ -330,93 +334,97 @@
         "confName": "B12",
         "confTeams": [
             {
-                "name": "Baylor",
+                "name": "Baylor Bears",
                 "state": "Texas",
                 "abbreviation": "BAY",
                 "rival": ["TCU"],
                 "rivalryNames": {},
-                "prestige": "85",
+                "prestige": "78",
                 "hexColor": "#154734"
               },
               {
-                  "name": "Cincinnati",
+                  "name": "Cincinnati Bearcats",
                   "state": "Ohio",
-                  "abbreviation": "UC",
-                  "rival": ["WVU"],
+                  "abbreviation": "CIN",
+                  "rival": ["ISU"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "81",
                   "hexColor": "#E00122"
               },
               {
-                  "name": "Houston",
+                  "name": "Houston Cougars",
                   "state": "Texas",
                   "abbreviation": "HOU",
-                  "rival": ["TTU"],
+                  "rival": ["TT"],
                   "rivalryNames": {},
-                  "prestige": "80",
+                  "prestige": "78",
                   "hexColor": "#C8102E"
               },
               {
-                  "name": "Iowa State",
+                  "name": "Iowa State Cyclones",
                   "state": "Iowa",
                   "abbreviation": "ISU",
-                  "rival": ["OKST"],
+                  "rival": ["CIN"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "79",
                   "hexColor": "#C8102E"
               },
               {
-                  "name": "Kansas",
+                  "name": "Kansas Jayhawks",
                   "state": "Kansas",
-                  "abbreviation": "UKAN",
-                  "rival": ["UKST"],
-                  "rivalryNames": {},
-                  "prestige": "80",
+                  "abbreviation": "KU",
+                  "rival": ["KSU"],
+                  "rivalryNames": {
+                      "KSU": "Sunflower Showdown"
+                  },
+                  "prestige": "67",
                   "hexColor": "#0051BA"
               },
               {
-                  "name": "Kansas State",
+                  "name": "Kansas State Wildcats",
                   "state": "Kansas",
-                  "abbreviation": "UKST",
-                  "rival": ["UKAN"],
-                  "rivalryNames": {},
-                  "prestige": "80",
+                  "abbreviation": "KSU",
+                  "rival": ["KU"],
+                  "rivalryNames": {
+                      "KU": "Sunflower Showdown"
+                  },
+                  "prestige": "67",
                   "hexColor": "#512888"
               },
               {
-                  "name": "Oklahoma State",
+                  "name": "Oklahoma State Cowboys",
                   "state": "Oklahoma",
                   "abbreviation": "OKST",
-                  "rival": ["ISU"],
+                  "rival": ["WV"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "80",
                   "hexColor": "#FF7300"
               },
               {
-                  "name": "Texas Christian",
+                  "name": "Texas Christian Horned Frogs",
                   "state": "Texas",
                   "abbreviation": "TCU",
                   "rival": ["BAY"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "73",
                   "hexColor": "#4D1979"
               },
               {
-                  "name": "Texas Tech",
+                  "name": "Texas Tech Red Raiders",
                   "state": "Texas",
-                  "abbreviation": "TTU",
+                  "abbreviation": "TT",
                   "rival": ["HOU"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "70",
                   "hexColor": "#CC0000"
               },
               {
-                  "name": "West Virginia",
+                  "name": "West Virginia Mountaineers",
                   "state": "West Virginia",
-                  "abbreviation": "WVU",
-                  "rival": ["UC"],
+                  "abbreviation": "WV",
+                  "rival": ["OKST"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "77",
                   "hexColor": "#002855"
               }
         ]
