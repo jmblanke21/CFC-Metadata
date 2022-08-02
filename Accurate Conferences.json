@@ -603,7 +603,7 @@
                 "hexColor": "#660000"
               },
               {
-                "name": "Ole Miss",
+                "name": "Ole Miss Rebels",
                 "state": "Mississippi",
                 "abbreviation": "MISS",
                 "rival": ["MSST"],
@@ -743,6 +743,24 @@
                 "hexColor": "#222222"
               },
               {
+                "name": "Coastal Carolina Chanticleers",
+                "state": "South Carolina",
+                "abbreviation": "CCU",
+                "rival": ["APPST"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#006F71"
+              },
+              {
+                "name": "Georgia Southern Eagles",
+                "state": "Georgia",
+                "abbreviation": "GSO",
+                "rival": ["GSU"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#011E41"
+              },
+              {
                 "name": "Arkansas State",
                 "state": "Arkansas",
                 "abbreviation": "ARKS",
@@ -752,28 +770,10 @@
                 "hexColor": "#CC092F"
               },
               {
-                "name": "Coastal Carolina",
-                "state": "South Carolina",
-                "abbreviation": "CCU",
-                "rival": ["APPST"],
-                "rivalryNames": {},
-                "prestige": "70",
-                "hexColor": "#006F71"
-              },
-              {
-                "name": "Georgia Southern",
-                "state": "Georgia",
-                "abbreviation": "GSOU",
-                "rival": ["GSU"],
-                "rivalryNames": {},
-                "prestige": "70",
-                "hexColor": "#011E41"
-              },
-              {
                 "name": "Georgia State",
                 "state": "Georgia",
                 "abbreviation": "GSU",
-                "rival": ["GSOU"],
+                "rival": ["GSO"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#0039A6"
@@ -830,6 +830,60 @@
         "confPrestige": "65",
         "confName": "MAC",
         "confTeams": [
+               {
+                "name": "Central Michigan Chippewas",
+                "state": "Michigan",
+                "abbreviation": "CMU",
+                "rival": ["WMU"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#6A0032"
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "state": "Michigan",
+                "abbreviation": "WMU",
+                "rival": ["CMU"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#6C4023"
+              },
+              {
+                "name": "Miami OH RedHawks",
+                "state": "Ohio",
+                "abbreviation": "MOH",
+                "rival": ["OHIO"],
+                "rivalryNames": {},
+                "prestige": "60",
+                "hexColor": "#B61E2E"
+              },
+              {
+                "name": "Ball State Cardinals",
+                "state": "Indiana",
+                "abbreviation": "BALL",
+                "rival": ["EMU"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#BA0C2F"
+              },
+              {
+                "name": "Toledo Rockets",
+                "state": "Ohio",
+                "abbreviation": "TOL",
+                "rival": ["BGSU"],
+                "rivalryNames": {},
+                "prestige": "60",
+                "hexColor": "#15397F"
+              },
+              {
+                "name": "Bowling Green Falcons",
+                "state": "Ohio",
+                "abbreviation": "BGSU",
+                "rival": ["TOL"],
+                "rivalryNames": {},
+                "prestige": "60",
+                "hexColor": "#FE5000"
+              },    
             {
                 "name": "Akron",
                 "state": "Ohio",
@@ -840,37 +894,10 @@
                 "hexColor": "#041E42"
               },
               {
-                "name": "Ball State",
-                "state": "Indiana",
-                "abbreviation": "BALL",
-                "rival": ["CMU"],
-                "rivalryNames": {},
-                "prestige": "65",
-                "hexColor": "#BA0C2F"
-              },
-              {
-                "name": "Bowling Green",
-                "state": "Ohio",
-                "abbreviation": "BGSU",
-                "rival": ["TOL"],
-                "rivalryNames": {},
-                "prestige": "60",
-                "hexColor": "#FE5000"
-              },
-              {
-                "name": "Central Michigan",
-                "state": "Michigan",
-                "abbreviation": "CMU",
-                "rival": ["BALL"],
-                "rivalryNames": {},
-                "prestige": "65",
-                "hexColor": "#6A0032"
-              },
-              {
                 "name": "Eastern Michigan",
                 "state": "Michigan",
                 "abbreviation": "EMU",
-                "rival": ["WMU"],
+                "rival": ["BALL"],
                 "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#006633"
@@ -885,40 +912,13 @@
                 "hexColor": "#002664"
               },
               {
-                "name": "Miami OH",
-                "state": "Ohio",
-                "abbreviation": "MIOH",
-                "rival": ["OHIO"],
-                "rivalryNames": {},
-                "prestige": "60",
-                "hexColor": "#B61E2E"
-              },
-              {
                 "name": "Ohio",
                 "state": "Ohio",
                 "abbreviation": "OHIO",
-                "rival": ["MIOH"],
+                "rival": ["MOH"],
                 "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#00694E"
-              },
-              {
-                "name": "Toledo",
-                "state": "Ohio",
-                "abbreviation": "TOL",
-                "rival": ["BGSU"],
-                "rivalryNames": {},
-                "prestige": "60",
-                "hexColor": "#15397F"
-              },
-              {
-                "name": "Western Michigan",
-                "state": "Michigan",
-                "abbreviation": "WMU",
-                "rival": ["EMU"],
-                "rivalryNames": {},
-                "prestige": "65",
-                "hexColor": "#6C4023"
               }
         ]
     },
