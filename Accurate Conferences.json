@@ -110,20 +110,20 @@
             "name": "Tennessee Volunteers",
             "state": "Tennessee",
             "abbreviation": "TENN",
-            "rival": ["TENN"],
+            "rival": ["VAND"],
             "rivalryNames": {},
             "prestige": "80",
             "hexColor": "#FF8200"
         },
-        {
-            "name": "Texas A&M Aggies",
-            "state": "Texas",
-            "abbreviation": "TAMU",
-            "rival": ["TENN"],
-            "rivalryNames": {},
-            "prestige": "89",
-            "hexColor": "#500000"
-        }
+              {
+                "name": "Vanderbilt",
+                "state": "Tennessee",
+                "abbreviation": "VAND",
+                "rival": ["TENN"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#866D4B"
+              }
       ]
     },
     {
@@ -536,95 +536,99 @@
         "confName": "GWC",
         "confTeams": [
             {
-                "name": "Air Force",
+                "name": "Air Force Falcons",
                 "state": "Colorado",
-                "abbreviation": "AIRF",
+                "abbreviation": "AF",
                 "rival": ["BYU"],
                 "rivalryNames": {},
-                "prestige": "75",
+                "prestige": "63",
                 "hexColor": "#003087"
               },
               {
-                "name": "Arizona",
-                "state": "Arizona",
-                "abbreviation": "AZ",
-                "rival": ["ASU"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#CC0033"
-              },
-              {
-                "name": "Arizona State",
-                "state": "Arizona",
-                "abbreviation": "ASU",
-                "rival": ["AZ"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#8C1D40"
-              },
-              {
-                "name": "Brigham Young",
+                "name": "Brigham Young Cougars",
                 "state": "Utah",
                 "abbreviation": "BYU",
-                "rival": ["AIRF"],
+                "rival": ["AF"],
                 "rivalryNames": {},
-                "prestige": "75",
+                "prestige": "76",
                 "hexColor": "#002E5D"
               },
               {
-                "name": "Iowa",
+                "name": "Arizona Wildcats",
+                "state": "Arizona",
+                "abbreviation": "ZONA",
+                "rival": ["ASU"],
+                "rivalryNames": {
+                    "ASU": "Dual in the Desert"
+                },
+                "prestige": "70",
+                "hexColor": "#CC0033"
+              },
+              {
+                "name": "Arizona State Sun Devils",
+                "state": "Arizona",
+                "abbreviation": "ASU",
+                "rival": ["ZONA"],
+                "rivalryNames": {
+                    "ZONA": "Dual in the Desert"
+                },
+                "prestige": "73",
+                "hexColor": "#8C1D40"
+              },
+              {
+                "name": "Iowa Hawkeyes",
                 "state": "Iowa",
                 "abbreviation": "IOWA",
-                "rival": ["UNL"],
+                "rival": ["NEB"],
                 "rivalryNames": {},
-                "prestige": "85",
+                "prestige": "82",
                 "hexColor": "#FFCD00"
+              },
+              {
+                "name": "Nebraska Cornhuskers",
+                "state": "Nebraska",
+                "abbreviation": "NEB",
+                "rival": ["IOWA"],
+                "rivalryNames": {},
+                "prestige": "77",
+                "hexColor": "#E41C38"
               },
               {
                 "name": "Mississippi State",
                 "state": "Mississippi",
-                "abbreviation": "MISS",
-                "rival": ["OLE"],
+                "abbreviation": "MSST",
+                "rival": ["MISS"],
                 "rivalryNames": {},
-                "prestige": "80",
+                "prestige": "74",
                 "hexColor": "#660000"
-              },
-              {
-                "name": "Missouri",
-                "state": "Missouri",
-                "abbreviation": "MO",
-                "rival": ["VAN"],
-                "rivalryNames": {},
-                "prestige": "80",
-                "hexColor": "#000000"
-              },
-              {
-                "name": "Nebraska",
-                "state": "Nebraska",
-                "abbreviation": "UNL",
-                "rival": ["IOWA"],
-                "rivalryNames": {},
-                "prestige": "85",
-                "hexColor": "#E41C38"
               },
               {
                 "name": "Ole Miss",
                 "state": "Mississippi",
-                "abbreviation": "OLE",
-                "rival": ["MISS"],
+                "abbreviation": "MISS",
+                "rival": ["MSST"],
                 "rivalryNames": {},
-                "prestige": "85",
+                "prestige": "80",
                 "hexColor": "#CE1126"
               },
               {
-                "name": "Vanderbilt",
-                "state": "Tennessee",
-                "abbreviation": "VAN",
-                "rival": ["MO"],
+                "name": "Missouri Tigers",
+                "state": "Missouri",
+                "abbreviation": "MIZZOU",
+                "rival": ["TAMU"],
                 "rivalryNames": {},
-                "prestige": "75",
-                "hexColor": "#866D4B"
-              }
+                "prestige": "72",
+                "hexColor": "#000000"
+              },
+           {
+            "name": "Texas A&M Aggies",
+            "state": "Texas",
+            "abbreviation": "TAMU",
+            "rival": ["MIZZOU"],
+            "rivalryNames": {},
+            "prestige": "89",
+            "hexColor": "#500000"
+           }
         ]
     },
     {
