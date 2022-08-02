@@ -435,93 +435,97 @@
         "confName": "PAC",
         "confTeams": [
             {
-                "name": "California",
+                "name": "California Golden Bears",
                 "state": "California",
                 "abbreviation": "CAL",
                 "rival": ["STAN"],
                 "rivalryNames": {},
-                "prestige": "80",
+                "prestige": "72",
                 "hexColor": "#003262"
               },
               {
-                "name": "Colorado",
+                "name": "Colorado Buffaloes",
                 "state": "Colorado",
-                "abbreviation": "COL",
+                "abbreviation": "CU",
                 "rival": ["UTAH"],
                 "rivalryNames": {},
-                "prestige": "80",
+                "prestige": "70",
                 "hexColor": "#CFB87C"
               },
               {
-                "name": "Oregon",
+                "name": "Oregon Ducks",
                 "state": "Oregon",
                 "abbreviation": "ORE",
                 "rival": ["ORSU"],
                 "rivalryNames": {},
-                "prestige": "90",
+                "prestige": "84",
                 "hexColor": "#154733"
               },
               {
-                "name": "Oregon State",
+                "name": "Oregon State Beavers",
                 "state": "Oregon",
                 "abbreviation": "ORSU",
                 "rival": ["ORE"],
                 "rivalryNames": {},
-                "prestige": "80",
+                "prestige": "67",
                 "hexColor": "#DC4405"
               },
               {
-                "name": "Stanford",
+                "name": "Stanford Cardinal",
                 "state": "California",
                 "abbreviation": "STAN",
                 "rival": ["CAL"],
                 "rivalryNames": {},
-                "prestige": "85",
+                "prestige": "79",
                 "hexColor": "#8C1515"
               },
               {
-                "name": "UC Los Angeles",
+                "name": "UCLA Bruins",
                 "state": "California",
                 "abbreviation": "UCLA",
                 "rival": ["USC"],
-                "rivalryNames": {},
-                "prestige": "90",
+                "rivalryNames": {
+                    "USC": "Battle of Los Angeles"
+                },
+                "prestige": "77",
                 "hexColor": "#2D68C4"
               },
               {
-                "name": "Utah",
+                "name": "Utah Utes",
                 "state": "Utah",
                 "abbreviation": "UTAH",
-                "rival": ["COL"],
+                "rival": ["CU"],
                 "rivalryNames": {},
-                "prestige": "80",
+                "prestige": "82",
                 "hexColor": "#CC0000"
               },
               {
-                "name": "South California",
+                "name": "Southern California Trojans",
                 "state": "California",
                 "abbreviation": "USC",
-                "rival": ["USCLA"],
-                "rivalryNames": {},
+                "rival": ["UCLA"],
+                "rivalryNames": {
+                    "UCLA": "Battle of Los Angeles"
+                },
                 "prestige": "85",
                 "hexColor": "#990000"
               },
               {
-                "name": "Washington",
+                "name": "Washington Huskies",
                 "state": "Washington",
-                "abbreviation": "WAS",
+                "abbreviation": "WASH",
                 "rival": ["WSU"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#4B2E83"
               },
               {
-                "name": "Washington State",
+                "name": "Washington State Cougars",
                 "state": "Washington",
                 "abbreviation": "WSU",
-                "rival": ["WAS"],
+                "rival": ["WASH"],
                 "rivalryNames": {},
-                "prestige": "80",
+                "prestige": "71",
                 "hexColor": "#981E32"
               }
         ]
