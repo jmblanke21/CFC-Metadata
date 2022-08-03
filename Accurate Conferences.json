@@ -867,10 +867,19 @@
                 "hexColor": "#C60C30"
               },
               {
+                "name": "Northern Illinois Huskies",
+                "state": "Illinois",
+                "abbreviation": "NIU",
+                "rival": ["BALL"],
+                "rivalryNames": {},
+                "prestige": "63",
+                "hexColor": "#BA0C2F"
+              },
+              {
                 "name": "Ball State Cardinals",
                 "state": "Indiana",
                 "abbreviation": "BALL",
-                "rival": ["EMU"],
+                "rival": ["NIU"],
                 "rivalryNames": {},
                 "prestige": "58",
                 "hexColor": "#BA0C2F"
@@ -894,31 +903,22 @@
                 "hexColor": "#FE5000"
               },
               {
-                "name": "Akron",
-                "state": "Ohio",
-                "abbreviation": "AKR",
-                "rival": ["KENT"],
+                "name": "Buffalo Bulls",
+                "state": "New York",
+                "abbreviation": "BUF",
+                "rival": ["YSU"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#041E42"
+                "prestige": "65",
+                "hexColor": "#005BBB"
               },
               {
-                "name": "Eastern Michigan",
-                "state": "Michigan",
-                "abbreviation": "EMU",
-                "rival": ["BALL"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#006633"
-              },
-              {
-                "name": "Kent State",
+                "name": "Youngstown State Penguins",
                 "state": "Ohio",
-                "abbreviation": "KENT",
-                "rival": ["AKR"],
+                "abbreviation": "YSU",
+                "rival": ["BUF"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#002664"
+                "prestige": "54",
+                "hexColor": "#C8102E"
               }
         ]
     },
