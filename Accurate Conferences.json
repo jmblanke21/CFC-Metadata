@@ -3,7 +3,7 @@
     "SUN": "SEC East",
     "MAC": "B1G East",
     "COL": "ACC",
-    "CUSA": "B12",
+    "CUSA": "XII",
     "MWC": "PAC",
     "AAC": "GWC"
   },
@@ -12,7 +12,7 @@
     "SEC East": "SUN",
     "B1G East": "MAC",
     "ACC": "COL",
-    "B12": "CUSA",
+    "XII": "CUSA",
     "PAC": "MWC",
     "AAC": "GWC"
   },
@@ -329,9 +329,9 @@
         ]
     },
     {
-        "confFullName": "Big 12",
+        "confFullName": "Big 12 Conference",
         "confPrestige": "90",
-        "confName": "B12",
+        "confName": "XII",
         "confTeams": [
             {
                 "name": "Baylor Bears",
