@@ -1176,40 +1176,48 @@
                 "hexColor": "#00853E"
               },
               {
-                "name": "Rice",
-                "state": "Texas",
-                "abbreviation": "RICE",
-                "rival": ["UTSA"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#00205B"
+                "name": "Jackson State Tigers",
+                "state": "Mississippi",
+                "abbreviation": "JSU",
+                "rival": ["ALC"],
+                "rivalryNames": {
+                    "ALC": "Soul Bowl"
+                },
+                "prestige": "65",
+                "hexColor": "#002147"
               },
               {
-                "name": "Tulane",
+                "name": "Alcorn State Braves",
+                "state": "Mississippi",
+                "abbreviation": "ALC",
+                "rival": ["JSU"],
+                "rivalryNames": {
+                    "JSU": "Soul Bowl"
+                },
+                "prestige": "55",
+                "hexColor": "#46166A"
+              },
+              {
+                "name": "Grambling State Tigers",
                 "state": "Louisiana",
-                "abbreviation": "TULA",
-                "rival": ["TULS"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#006747"
+                "abbreviation": "GRAM",
+                "rival": ["SOU"],
+                "rivalryNames": {
+                    "SOU": "Bayou Classic"
+                },
+                "prestige": "62",
+                "hexColor": "#000000"
               },
               {
-                "name": "Tulsa",
-                "state": "Oklahoma",
-                "abbreviation": "TULS",
-                "rival": ["TULA"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#002D72"
-              },
-              {
-                "name": "UT San Antonio",
-                "state": "Texas",
-                "abbreviation": "UTSA",
-                "rival": ["RICE"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#F15A22"
+                "name": "Southern Jaguars",
+                "state": "Louisiana",
+                "abbreviation": "SOU",
+                "rival": ["GRAM"],
+                "rivalryNames": {
+                    "GRAM": "Bayou Classic"
+                },
+                "prestige": "63",
+                "hexColor": "#69B3E7"
               }
         ]
     }
