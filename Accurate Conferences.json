@@ -755,7 +755,7 @@
                 "name": "Georgia Southern Eagles",
                 "state": "Georgia",
                 "abbreviation": "GSO",
-                "rival": ["GSU"],
+                "rival": ["CUSE"],
                 "rivalryNames": {},
                 "prestige": "55",
                 "hexColor": "#011E41"
@@ -764,7 +764,7 @@
                 "name": "Syracuse Orange",
                 "state": "New York",
                 "abbreviation": "CUSE",
-                "rival": ["GSU"],
+                "rival": ["GSO"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#D44500"
