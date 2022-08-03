@@ -4,8 +4,8 @@
     "XII": "SEC West",
     "COL": "B1G East",
     "PAC": "B1G West",
-    "CUSA": "MAC",
-    "SUN": "MWC"
+    "SUN": "MAC",
+    "SUN West": "MWC"
   },
   "baseYear": 2022,
   "relegationRoutes": {
@@ -13,8 +13,8 @@
     "SEC West": "XII",
     "B1G East": "COL",
     "B1G West": "PAC",
-    "MAC": "CUSA",
-    "MWC": "SUN"
+    "MAC": "SUN",
+    "MWC": "SUN West"
   },
   "conferences": [
     {
@@ -927,9 +927,9 @@
         ]
     },
     {
-        "confFullName": "Conference USA",
+        "confFullName": "Sun Belt West",
         "confPrestige": "65",
-        "confName": "CUSA",
+        "confName": "SUN West",
         "confTeams": [
                {
                 "name": "Old Dominion Monarchs",
