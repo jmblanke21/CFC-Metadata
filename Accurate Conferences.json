@@ -1,20 +1,20 @@
 {
   "promotionRoutes": {
-    "SUN": "SEC East",
-    "MAC": "B1G East",
-    "COL": "ACC",
-    "CUSA": "XII",
-    "MWC": "PAC",
-    "B1G West": "SEC West"
+    "ACC": "SEC East",
+    "XII": "SEC West",
+    "COL": "B1G East",
+    "PAC": "B1G West",
+    "CUSA": "MAC",
+    "SUN": "MWC"
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "SEC East": "SUN",
-    "B1G East": "MAC",
-    "ACC": "COL",
-    "XII": "CUSA",
-    "PAC": "MWC",
-    "SEC West": "B1G West"
+    "SEC East": "ACC",
+    "SEC West": "XII",
+    "B1G East": "COL",
+    "B1G West": "PAC",
+    "MAC": "CUSA",
+    "MWC": "SUN"
   },
   "conferences": [
     {
