@@ -4,8 +4,10 @@
     "XII": "SEC West",
     "COL": "B1G East",
     "PAC": "B1G West",
-    "SUN East": "MAC",
-    "SUN West": "MWC"
+    "SUN East": "ACC",
+    "SUN West": "XII",
+    "MAC": "COL",
+    "MWC": "PAC"
   },
   "baseYear": 2022,
   "relegationRoutes": {
@@ -13,8 +15,10 @@
     "SEC West": "XII",
     "B1G East": "COL",
     "B1G West": "PAC",
-    "MAC": "SUN East",
-    "MWC": "SUN West"
+    "ACC": "SUN East",
+    "XII": "SUN West",
+    "COL": "MAC",
+    "PAC": "MWC"
   },
   "conferences": [
     {
