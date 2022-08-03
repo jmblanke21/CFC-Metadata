@@ -4,7 +4,7 @@
     "XII": "SEC West",
     "COL": "B1G East",
     "PAC": "B1G West",
-    "SUN": "MAC",
+    "SUN East": "MAC",
     "SUN West": "MWC"
   },
   "baseYear": 2022,
@@ -13,7 +13,7 @@
     "SEC West": "XII",
     "B1G East": "COL",
     "B1G West": "PAC",
-    "MAC": "SUN",
+    "MAC": "SUN East",
     "MWC": "SUN West"
   },
   "conferences": [
@@ -729,9 +729,9 @@
         ]
     },
     {
-        "confFullName": "Sun Belt",
+        "confFullName": "Sun Belt East",
         "confPrestige": "70",
-        "confName": "SUN",
+        "confName": "SUN East",
         "confTeams": [
             {
                 "name": "Appalachian State Mountaineers",
@@ -830,7 +830,7 @@
         ]
     },
     {
-        "confFullName": "Mid American",
+        "confFullName": "Mid-American Conference",
         "confPrestige": "65",
         "confName": "MAC",
         "confTeams": [
@@ -1024,7 +1024,7 @@
         ]
     },
     {
-        "confFullName": "Mountain West",
+        "confFullName": "Mountain West Conference",
         "confPrestige": "70",
         "confName": "MWC",
         "confTeams": [
