@@ -770,58 +770,62 @@
                 "hexColor": "#D44500"
               },
               {
-                "name": "Arkansas State",
-                "state": "Arkansas",
-                "abbreviation": "ARKS",
-                "rival": ["USM"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#CC092F"
+                "name": "Harvard Crimson",
+                "state": "Massachusetts",
+                "abbreviation": "HARV",
+                "rival": ["YALE"],
+                "rivalryNames": {
+                    "YALE": "The Game"
+                },
+                "prestige": "67",
+                "hexColor": "#A51C30"
               },
               {
-                "name": "UL Lafayette",
-                "state": "Louisiana",
-                "abbreviation": "RAGE",
-                "rival": ["ULM"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#CE181E"
+                "name": "Yale Bulldogs",
+                "state": "Connecticut",
+                "abbreviation": "YALE",
+                "rival": ["HARV"],
+                "rivalryNames": {
+                    "HARV": "The Game"
+                },
+                "prestige": "65",
+                "hexColor": "#00356B"
               },
               {
-                "name": "UL Monroe",
-                "state": "Louisiana",
-                "abbreviation": "ULM",
-                "rival": ["RAGE"],
+                "name": "Princeton Tigers",
+                "state": "New Jersey",
+                "abbreviation": "PRIN",
+                "rival": ["PENN"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#840029"
+                "prestige": "63",
+                "hexColor": "#FF6000"
               },
               {
-                "name": "South Alabama",
-                "state": "Alabama",
-                "abbreviation": "SAU",
-                "rival": ["TROY"],
+                "name": "Pennsylvania Quakers",
+                "state": "Pennsylvania",
+                "abbreviation": "PENN",
+                "rival": ["PRIN"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#00205B"
+                "prestige": "57",
+                "hexColor": "#011F5B"
               },
               {
-                "name": "Southern Miss",
-                "state": "Mississippi",
-                "abbreviation": "USM",
-                "rival": ["ARKS"],
+                "name": "Richmond Spiders",
+                "state": "Virginia",
+                "abbreviation": "RICH",
+                "rival": ["DEL"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#FFAB00"
+                "prestige": "63",
+                "hexColor": "#C32032"
               },
               {
-                "name": "Troy",
-                "state": "Alabama",
-                "abbreviation": "TROY",
-                "rival": ["SAU"],
+                "name": "Delaware Fightin’ Blue Hens",
+                "state": "Delaware",
+                "abbreviation": "DEL",
+                "rival": ["RICH"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#8A2432"
+                "prestige": "60",
+                "hexColor": "#00539F"
               }
         ]
     },
