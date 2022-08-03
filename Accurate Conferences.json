@@ -352,13 +352,13 @@
                   "hexColor": "#E00122"
               },
               {
-                  "name": "Houston Cougars",
-                  "state": "Texas",
-                  "abbreviation": "HOU",
+                  "name": "Rutgers Scarlet Knights",
+                  "state": "New Jersey",
+                  "abbreviation": "RUT",
                   "rival": ["TT"],
                   "rivalryNames": {},
-                  "prestige": "78",
-                  "hexColor": "#C8102E"
+                  "prestige": "70",
+                  "hexColor": "#CC0033"
               },
               {
                   "name": "Iowa State Cyclones",
@@ -413,7 +413,7 @@
                   "name": "Texas Tech Red Raiders",
                   "state": "Texas",
                   "abbreviation": "TT",
-                  "rival": ["HOU"],
+                  "rival": ["RUT"],
                   "rivalryNames": {},
                   "prestige": "70",
                   "hexColor": "#CC0000"
@@ -755,10 +755,19 @@
                 "name": "Georgia Southern Eagles",
                 "state": "Georgia",
                 "abbreviation": "GSO",
-                "rival": ["GSU"],
+                "rival": ["CUSE"],
                 "rivalryNames": {},
                 "prestige": "55",
                 "hexColor": "#011E41"
+              },
+              {
+                "name": "Syracuse Orange",
+                "state": "New York",
+                "abbreviation": "CUSE",
+                "rival": ["GSO"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#D44500"
               },
               {
                 "name": "Arkansas State",
@@ -768,15 +777,6 @@
                 "rivalryNames": {},
                 "prestige": "40",
                 "hexColor": "#CC092F"
-              },
-              {
-                "name": "Georgia State",
-                "state": "Georgia",
-                "abbreviation": "GSU",
-                "rival": ["GSO"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#0039A6"
               },
               {
                 "name": "UL Lafayette",
@@ -1121,11 +1121,20 @@
         "confPrestige": "75",
         "confName": "AAC",
         "confTeams": [
+               {
+                "name": "Houston Cougars",
+                "state": "Texas",
+                "abbreviation": "Hou",
+                "rival": ["MEM"],
+                "rivalryNames": {},
+                "prestige": "77",
+                "hexColor": "#C8102E"
+              },
               {
                 "name": "Memphis Tigers",
                 "state": "Tennessee",
                 "abbreviation": "UMEM",
-                "rival": ["CHAR"],
+                "rival": ["HOU"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#003087"
@@ -1152,28 +1161,19 @@
                 "name": "Southern Methodist Mustangs",
                 "state": "Texas",
                 "abbreviation": "SMU",
-                "rival": ["NTX"],
+                "rival": ["NM"],
                 "rivalryNames": {},
                 "prestige": "66",
                 "hexColor": "#0033A0"
               },
               {
-                "name": "Charlotte",
-                "state": "North Carolina",
-                "abbreviation": "CHAR",
-                "rival": ["MEM"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#046A38"
-              },
-              {
-                "name": "North Texas",
-                "state": "Texas",
-                "abbreviation": "NTX",
+                "name": "New Mexico Lobos",
+                "state": "New Mexico",
+                "abbreviation": "NM",
                 "rival": ["SMU"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#00853E"
+                "prestige": "63",
+                "hexColor": "#BA0C2F"
               },
               {
                 "name": "Jackson State Tigers",
