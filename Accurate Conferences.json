@@ -931,7 +931,7 @@
                 "name": "Old Dominion Monarchs",
                 "state": "Virginia",
                 "abbreviation": "ODU",
-                "rival": ["LIB"],
+                "rival": ["MON"],
                 "rivalryNames": {},
                 "prestige": "55",
                 "hexColor": "#7C878E"
@@ -971,51 +971,51 @@
                 "rivalryNames": {},
                 "prestige": "67",
                 "hexColor": "#003366"
-              },
-              {
-                "name": "Florida International",
-                "state": "Florida",
-                "abbreviation": "FIU",
-                "rival": ["MTSU"],
-                "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#081E3F"
-              },
-              {
-                "name": "Liberty",
-                "state": "Virginia",
-                "abbreviation": "LIB",
+               },
+               {
+                "name": "Montana Grizzlies",
+                "state": "Montana",
+                "abbreviation": "MON",
                 "rival": ["ODU"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#002D62"
+                "prestige": "55",
+                "hexColor": "#660033"
               },
               {
-                "name": "Middle Tennessee",
-                "state": "Tennessee",
-                "abbreviation": "MTSU",
-                "rival": ["FIU"],
+                "name": "South Dakota State Jackrabbits",
+                "state": "South Dakota",
+                "abbreviation": "SDST",
+                "rival": ["NDST"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#0066CC"
+                "prestige": "63",
+                "hexColor": "#0032A0"
               },
               {
-                "name": "Texas State",
-                "state": "Texas",
-                "abbreviation": "TXST",
-                "rival": ["OHIO"],
+                "name": "North Dakota State Bison",
+                "state": "North Dakota",
+                "abbreviation": "NDST",
+                "rival": ["SDST"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#501214"
+                "prestige": "67",
+                "hexColor": "#005643"
               },
               {
-                "name": "Ohio",
-                "state": "Ohio",
-                "abbreviation": "OHIO",
-                "rival": ["TXST"],
+                "name": "Connecticut Huskies",
+                "state": "Connecticut",
+                "abbreviation": "UCONN",
+                "rival": ["UMASS"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#00694E"
+                "prestige": "70",
+                "hexColor": "#000E2F"
+              },
+              {
+                "name": "Massachusetts Minutemen",
+                "state": "Massachusetts",
+                "abbreviation": "UMASS",
+                "rival": ["UCONN"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#971B2F"
               }
         ]
     },
@@ -1097,22 +1097,22 @@
                 "hexColor": "#CF0A2C"
               },
               {
-                "name": "San Jose State",
-                "state": "California",
-                "abbreviation": "SJSU",
-                "rival": ["HI"],
+                "name": "James Madison Dukes",
+                "state": "Virginia",
+                "abbreviation": "JMU",
+                "rival": ["FAMU"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#0055A2"
+                "prestige": "64",
+                "hexColor": "#450084"
               },
               {
-                "name": "Hawaii",
-                "state": "Hawaii",
-                "abbreviation": "HI",
-                "rival": ["SJSU"],
+                "name": "Florida A&M Rattlers",
+                "state": "Florida",
+                "abbreviation": "FAMU",
+                "rival": ["JMU"],
                 "rivalryNames": {},
-                "prestige": "40",
-                "hexColor": "#024731"
+                "prestige": "55",
+                "hexColor": "#008344"
               }
         ]
     },
