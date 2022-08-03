@@ -5,7 +5,7 @@
     "COL": "ACC",
     "CUSA": "XII",
     "MWC": "PAC",
-    "AAC": "GWC"
+    "AAC": "SEC West"
   },
   "baseYear": 2022,
   "relegationRoutes": {
@@ -14,12 +14,12 @@
     "ACC": "COL",
     "XII": "CUSA",
     "PAC": "MWC",
-    "AAC": "GWC"
+    "SEC West": "AAC"
   },
   "conferences": [
     {
       "confFullName": "Southeastern Conference East",
-      "confPrestige": "95",
+      "confPrestige": "92",
       "confName": "SEC East",
       "confTeams": [
         {
@@ -127,8 +127,8 @@
       ]
     },
     {
-        "confFullName": "Big Ten Conference East",
-        "confPrestige": "95",
+        "confFullName": "Big Ten East",
+        "confPrestige": "90",
         "confName": "B1G East",
         "confTeams": [
               {
@@ -228,8 +228,8 @@
         ]
     },
     {
-        "confFullName": "Atlantic Coast",
-        "confPrestige": "90",
+        "confFullName": "Atlantic Coast Conference",
+        "confPrestige": "82",
         "confName": "ACC",
         "confTeams": [
             {
@@ -430,8 +430,8 @@
         ]
     },
     {
-        "confFullName": "Pacific Coast",
-        "confPrestige": "85",
+        "confFullName": "Pacific Coast Conference",
+        "confPrestige": "80",
         "confName": "PAC",
         "confTeams": [
             {
@@ -531,9 +531,9 @@
         ]
     },
     {
-        "confFullName": "Great West",
-        "confPrestige": "85",
-        "confName": "GWC",
+        "confFullName": "Southeastern Conference West",
+        "confPrestige": "94",
+        "confName": "SEC West",
         "confTeams": [
             {
                 "name": "Air Force Falcons",
