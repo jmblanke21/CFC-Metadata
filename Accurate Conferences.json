@@ -774,9 +774,7 @@
                 "state": "Massachusetts",
                 "abbreviation": "HARV",
                 "rival": ["YALE"],
-                "rivalryNames": {
-                    "YALE": "The Game"
-                },
+                "rivalryNames": {},
                 "prestige": "67",
                 "hexColor": "#A51C30"
               },
@@ -785,9 +783,7 @@
                 "state": "Connecticut",
                 "abbreviation": "YALE",
                 "rival": ["HARV"],
-                "rivalryNames": {
-                    "HARV": "The Game"
-                },
+                "rivalryNames": {},
                 "prestige": "65",
                 "hexColor": "#00356B"
               },
