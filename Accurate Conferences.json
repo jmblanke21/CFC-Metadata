@@ -366,7 +366,7 @@
                   "abbreviation": "WISC",
                   "rival": ["MINN"],
                   "rivalryNames": {},
-                  "prestige": "85",
+                  "prestige": "86",
                   "hexColor": "#C5050C"
               },          
               {
@@ -375,7 +375,7 @@
                 "abbreviation": "ORE",
                 "rival": ["WASH"],
                 "rivalryNames": {},
-                "prestige": "86",
+                "prestige": "85",
                 "hexColor": "#154733"
               },
               {
@@ -599,7 +599,7 @@
                   "abbreviation": "DUKE",
                   "rival": ["BC"],
                   "rivalryNames": {},
-                  "prestige": "71",
+                  "prestige": "70",
                   "hexColor": "#003087"
               },
               {
@@ -608,7 +608,7 @@
                 "abbreviation": "BC",
                 "rival": ["DUKE"],
                 "rivalryNames": {},
-                "prestige": "70",
+                "prestige": "71",
                 "hexColor": "#98002E"
               },
               {
@@ -805,7 +805,7 @@
                 "hexColor": "#C32032"
               },
               {
-                "name": "Delaware Fightin’ Blue Hens",
+                "name": "Delaware Fighting Blue Hens",
                 "state": "Delaware",
                 "abbreviation": "DEL",
                 "rival": ["RICH"],
