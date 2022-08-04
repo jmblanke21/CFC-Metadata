@@ -4,8 +4,8 @@
     "XII": "SECW",
     "COL": "B1GE",
     "PAC": "B1GW",
-    "SBE": "ACC",
-    "SBW": "XII",
+    "SUNE": "ACC",
+    "SUNW": "XII",
     "MAC": "COL",
     "MWC": "PAC"
   },
@@ -1030,7 +1030,7 @@
     {
         "confFullName": "Sun Belt East",
         "confPrestige": "65",
-        "confName": "SBE",
+        "confName": "SUNE",
         "confTeams": [
               {
                 "name": "James Madison Dukes",
@@ -1127,7 +1127,7 @@
     {
         "confFullName": "Sun Belt West",
         "confPrestige": "67",
-        "confName": "SBW",
+        "confName": "SUNW",
         "confTeams": [ 
                {
                 "name": "Houston Cougars",
