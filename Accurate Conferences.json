@@ -3,7 +3,7 @@
     "ACC": "SEC East",
     "XII": "SEC West",
     "COL": "B1G East",
-    "PAC": "B1G West",
+    "PAC": "B1GWest",
     "SUN East": "ACC",
     "SUN West": "XII",
     "MAC": "COL",
@@ -14,7 +14,7 @@
     "SEC East": "ACC",
     "SEC West": "XII",
     "B1G East": "COL",
-    "B1G West": "PAC",
+    "B1GWest": "PAC",
     "ACC": "SUN East",
     "XII": "SUN West",
     "COL": "MAC",
@@ -249,8 +249,7 @@
                   "abbreviation": "MICH",
                   "rival": ["OSU"],
                   "rivalryNames": {
-                      "OSU": "The Game",
-                      "MSU": "Paul Bunyan Trophy"
+                      "OSU": "The Game"
                   },
                   "prestige": "88",
                   "hexColor": "#00274C"
@@ -260,10 +259,7 @@
                   "state": "Michigan",
                   "abbreviation": "MSU",
                   "rival": ["PSU"],
-                  "rivalryNames": {
-                      "PSU": "Land Grant Trophy",
-                      "MICH": "Paul Bunyan Trophy"
-                  },
+                  "rivalryNames": {},
                   "prestige": "80",
                   "hexColor": "#18453B"
               },
@@ -272,9 +268,7 @@
                   "state": "Pennsylvania",
                   "abbreviation": "PSU",
                   "rival": ["MSU"],
-                  "rivalryNames": {
-                      "MSU": "Land Grant Trophy"
-                  },
+                  "rivalryNames": {},
                   "prestige": "84",
                   "hexColor": "#041E42"
               },          
@@ -337,7 +331,7 @@
     {
         "confFullName": "Big Ten West",
         "confPrestige": "88",
-        "confName": "B1G West",
+        "confName": "B1GWest",
         "confTeams": [
               {
                 "name": "Iowa Hawkeyes",
@@ -379,7 +373,7 @@
                 "name": "Oregon Ducks",
                 "state": "Oregon",
                 "abbreviation": "ORE",
-                "rival": ["WASH"],
+                "rival": ["ORST"],
                 "rivalryNames": {},
                 "prestige": "85",
                 "hexColor": "#154733"
@@ -388,7 +382,7 @@
                 "name": "Washington Huskies",
                 "state": "Washington",
                 "abbreviation": "UW",
-                "rival": ["ORE"],
+                "rival": ["WSU"],
                 "rivalryNames": {},
                 "prestige": "80",
                 "hexColor": "#4B2E83"
@@ -686,7 +680,7 @@
                 "name": "Oregon State Beavers",
                 "state": "Oregon",
                 "abbreviation": "ORST",
-                "rival": ["WSU"],
+                "rival": ["ORE"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#DC4405"
@@ -695,7 +689,7 @@
                 "name": "Washington State Cougars",
                 "state": "Washington",
                 "abbreviation": "WSU",
-                "rival": ["ORST"],
+                "rival": ["WSU"],
                 "rivalryNames": {},
                 "prestige": "72",
                 "hexColor": "#981E32"
