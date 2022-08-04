@@ -252,7 +252,7 @@
                       "MSU"
                   },
                   "rivalryNames": {
-                      "OSU": "The Game"
+                      "OSU": "The Game",
                       "MSU": "Paul Bunyan Trophy"
                   },
                   "prestige": "88",
@@ -267,7 +267,8 @@
                       "MICH"
                   },
                   "rivalryNames": {
-                      "MICH": "Paul Bunyan Trophy"
+                      "PSU": "Land Grant Trophy"
+                      "MICH": "Paul Bunyan Trophy",
                   },
                   "prestige": "80",
                   "hexColor": "#18453B"
@@ -277,7 +278,9 @@
                   "state": "Pennsylvania",
                   "abbreviation": "PSU",
                   "rival": ["MSU"],
-                  "rivalryNames": {},
+                  "rivalryNames": {
+                      "MSU": "Land Grant Trophy"
+                  },
                   "prestige": "84",
                   "hexColor": "#041E42"
               },          
