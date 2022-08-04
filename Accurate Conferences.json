@@ -1,22 +1,22 @@
 {
   "promotionRoutes": {
-    "ACC": "SEC East",
-    "XII": "SEC West",
-    "COL": "B1G East",
-    "PAC": "B1GWest",
-    "SUN East": "ACC",
-    "SUN West": "XII",
+    "ACC": "SCE",
+    "XII": "SCW",
+    "COL": "BTE",
+    "PAC": "BTW",
+    "SBE": "ACC",
+    "SBW": "XII",
     "MAC": "COL",
     "MWC": "PAC"
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "SEC East": "ACC",
-    "SEC West": "XII",
-    "B1G East": "COL",
-    "B1GWest": "PAC",
-    "ACC": "SUN East",
-    "XII": "SUN West",
+    "SCE": "ACC",
+    "SCW": "XII",
+    "BTE": "COL",
+    "BTW": "PAC",
+    "ACC": "SBE",
+    "XII": "SBW",
     "COL": "MAC",
     "PAC": "MWC"
   },
@@ -24,7 +24,7 @@
     {
       "confFullName": "Southeastern Conference East",
       "confPrestige": "92",
-      "confName": "SEC East",
+      "confName": "SCE",
       "confTeams": [
            {
             "name": "Georgia Bulldogs",
@@ -125,7 +125,7 @@
     {
         "confFullName": "Southeastern Conference West",
         "confPrestige": "94",
-        "confName": "SEC West",
+        "confName": "SCW",
         "confTeams": [
          {
           "name": "Alabama Crimson Tide",
@@ -230,7 +230,7 @@
     {
         "confFullName": "Big Ten East",
         "confPrestige": "90",
-        "confName": "B1G East",
+        "confName": "BTE",
         "confTeams": [
               {
                   "name": "Ohio State Buckeyes",
@@ -331,7 +331,7 @@
     {
         "confFullName": "Big Ten West",
         "confPrestige": "88",
-        "confName": "B1GWest",
+        "confName": "BTW",
         "confTeams": [
               {
                 "name": "Iowa Hawkeyes",
@@ -1030,7 +1030,7 @@
     {
         "confFullName": "Sun Belt East",
         "confPrestige": "65",
-        "confName": "SUN East",
+        "confName": "SBE",
         "confTeams": [
               {
                 "name": "James Madison Dukes",
@@ -1127,7 +1127,7 @@
     {
         "confFullName": "Sun Belt West",
         "confPrestige": "67",
-        "confName": "SUN West",
+        "confName": "SBW",
         "confTeams": [ 
                {
                 "name": "Houston Cougars",
