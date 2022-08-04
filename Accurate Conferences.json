@@ -1,9 +1,9 @@
 {
   "promotionRoutes": {
-    "ACC": "SCE",
-    "XII": "SCW",
-    "COL": "BTE",
-    "PAC": "BTW",
+    "ACC": "SECE",
+    "XII": "SECW",
+    "COL": "B1GE",
+    "PAC": "B1GW",
     "SBE": "ACC",
     "SBW": "XII",
     "MAC": "COL",
@@ -11,10 +11,10 @@
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "SCE": "ACC",
-    "SCW": "XII",
-    "BTE": "COL",
-    "BTW": "PAC",
+    "SECE": "ACC",
+    "SECW": "XII",
+    "B1GE": "COL",
+    "B1GW": "PAC",
     "ACC": "SBE",
     "XII": "SBW",
     "COL": "MAC",
@@ -24,7 +24,7 @@
     {
       "confFullName": "Southeastern Conference East",
       "confPrestige": "92",
-      "confName": "SCE",
+      "confName": "SECE",
       "confTeams": [
            {
             "name": "Georgia Bulldogs",
@@ -125,7 +125,7 @@
     {
         "confFullName": "Southeastern Conference West",
         "confPrestige": "94",
-        "confName": "SCW",
+        "confName": "SECW",
         "confTeams": [
          {
           "name": "Alabama Crimson Tide",
@@ -210,7 +210,7 @@
               {
                 "name": "Missouri Tigers",
                 "state": "Missouri",
-                "abbreviation": "MIZZOU",
+                "abbreviation": "MIZ",
                 "rival": ["TAMU"],
                 "rivalryNames": {},
                 "prestige": "74",
@@ -220,7 +220,7 @@
             "name": "Texas A&M Aggies",
             "state": "Texas",
             "abbreviation": "TAMU",
-            "rival": ["MIZZOU"],
+            "rival": ["MIZ"],
             "rivalryNames": {},
             "prestige": "89",
             "hexColor": "#500000"
@@ -230,7 +230,7 @@
     {
         "confFullName": "Big Ten East",
         "confPrestige": "90",
-        "confName": "BTE",
+        "confName": "B1GE",
         "confTeams": [
               {
                   "name": "Ohio State Buckeyes",
@@ -331,7 +331,7 @@
     {
         "confFullName": "Big Ten West",
         "confPrestige": "88",
-        "confName": "BTW",
+        "confName": "B1GW",
         "confTeams": [
               {
                 "name": "Iowa Hawkeyes",
@@ -816,8 +816,8 @@
               {
                 "name": "Connecticut Huskies",
                 "state": "Connecticut",
-                "abbreviation": "UCONN",
-                "rival": ["UMASS"],
+                "abbreviation": "CONN",
+                "rival": ["MASS"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#000E2F"
@@ -825,8 +825,8 @@
               {
                 "name": "Massachusetts Minutemen",
                 "state": "Massachusetts",
-                "abbreviation": "UMASS",
-                "rival": ["UCONN"],
+                "abbreviation": "MASS",
+                "rival": ["CONN"],
                 "rivalryNames": {},
                 "prestige": "70",
                 "hexColor": "#971B2F"
@@ -938,7 +938,7 @@
               {
                 "name": "Boise State Broncos",
                 "state": "Idaho",
-                "abbreviation": "BOISE",
+                "abbreviation": "BSU",
                 "rival": ["FRES"],
                 "rivalryNames": {},
                 "prestige": "77",
@@ -948,7 +948,7 @@
                 "name": "Fresno State Bulldogs",
                 "state": "California",
                 "abbreviation": "FRES",
-                "rival": ["BOISE"],
+                "rival": ["BSU"],
                 "rivalryNames": {},
                 "prestige": "72",
                 "hexColor": "#DB0032"
@@ -1053,7 +1053,7 @@
               {
                 "name": "Marshall Thundering Herd",
                 "state": "West Virginia",
-                "abbreviation": "MARSH",
+                "abbreviation": "MAR",
                 "rival": ["ECU"],
                 "rivalryNames": {},
                 "prestige": "65",
@@ -1063,7 +1063,7 @@
                 "name": "East Carolina Pirates",
                 "state": "North Carolina",
                 "abbreviation": "ECU",
-                "rival": ["MARSH"],
+                "rival": ["MAR"],
                 "rivalryNames": {},
                 "prestige": "68",
                 "hexColor": "#592A8A"
@@ -1071,7 +1071,7 @@
                {
                 "name": "Appalachian State Mountaineers",
                 "state": "North Carolina",
-                "abbreviation": "APPST",
+                "abbreviation": "APP",
                 "rival": ["CCU"],
                 "rivalryNames": {},
                 "prestige": "75",
@@ -1081,7 +1081,7 @@
                 "name": "Coastal Carolina Chanticleers",
                 "state": "South Carolina",
                 "abbreviation": "CCU",
-                "rival": ["APPST"],
+                "rival": ["APP"],
                 "rivalryNames": {},
                 "prestige": "68",
                 "hexColor": "#006F71"
@@ -1141,7 +1141,7 @@
               {
                 "name": "Memphis Tigers",
                 "state": "Tennessee",
-                "abbreviation": "UMEM",
+                "abbreviation": "MEM",
                 "rival": ["HOU"],
                 "rivalryNames": {},
                 "prestige": "70",
