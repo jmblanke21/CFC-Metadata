@@ -267,8 +267,8 @@
                       ["MICH"]
                   },
                   "rivalryNames": {
-                      "PSU": "Land Grant Trophy"
-                      "MICH": "Paul Bunyan Trophy",
+                      "PSU": "Land Grant Trophy",
+                      "MICH": "Paul Bunyan Trophy"
                   },
                   "prestige": "80",
                   "hexColor": "#18453B"
