@@ -248,8 +248,8 @@
                   "state": "Michigan",
                   "abbreviation": "MICH",
                   "rival": {
-                      ["OSU"],
-                      ["MSU"]
+                      "OSU",
+                      "MSU"
                   },
                   "rivalryNames": {
                       "OSU": "The Game",
@@ -263,8 +263,8 @@
                   "state": "Michigan",
                   "abbreviation": "MSU",
                   "rival": {
-                      ["PSU"],
-                      ["MICH"]
+                      "PSU",
+                      "MICH"
                   },
                   "rivalryNames": {
                       "PSU": "Land Grant Trophy",
