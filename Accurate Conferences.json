@@ -247,7 +247,10 @@
                   "name": "Michigan Wolverines",
                   "state": "Michigan",
                   "abbreviation": "MICH",
-                  "rival": ["OSU"],
+                  "rival": {
+                      ["OSU"],
+                      ["MSU"]
+                  },
                   "rivalryNames": {
                       "OSU": "The Game"
                       "MSU": "Paul Bunyan Trophy"
@@ -259,8 +262,13 @@
                   "name": "Michigan State Spartans",
                   "state": "Michigan",
                   "abbreviation": "MSU",
-                  "rival": ["PSU"],
-                  "rivalryNames": {},
+                  "rival": {
+                      ["PSU"],
+                      ["MICH"]
+                  },
+                  "rivalryNames": {
+                      "MICH": "Paul Bunyan Trophy"
+                  },
                   "prestige": "80",
                   "hexColor": "#18453B"
               },
