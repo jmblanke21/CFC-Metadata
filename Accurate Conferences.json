@@ -689,7 +689,7 @@
                 "name": "Washington State Cougars",
                 "state": "Washington",
                 "abbreviation": "WSU",
-                "rival": ["WSU"],
+                "rival": ["UW"],
                 "rivalryNames": {},
                 "prestige": "72",
                 "hexColor": "#981E32"
