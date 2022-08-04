@@ -1,6 +1,6 @@
 {
   "promotionRoutes": {
-    "ACC": "SEC East",
+    "ACC": "SECE",
     "XII": "SECW",
     "COL": "B1GE",
     "PAC": "B1GW",
@@ -11,7 +11,7 @@
   },
   "baseYear": 2022,
   "relegationRoutes": {
-    "SEC East": "ACC",
+    "SECE": "ACC",
     "SECW": "XII",
     "B1GE": "COL",
     "B1GW": "PAC",
@@ -24,7 +24,7 @@
     {
       "confFullName": "Southeastern Conference East",
       "confPrestige": "92",
-      "confName": "SEC East",
+      "confName": "SECE",
       "confTeams": [
            {
             "name": "Georgia Bulldogs",
