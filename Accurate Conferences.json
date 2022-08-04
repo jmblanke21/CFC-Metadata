@@ -497,7 +497,7 @@
                   "abbreviation": "ISU",
                   "rival": ["IOWA"],
                   "rivalryNames": {
-                      "ISU": "Cy-Hawk Trophy"
+                      "IOWA": "Cy-Hawk Trophy"
                   },
                   "prestige": "79",
                   "hexColor": "#C8102E"
@@ -1188,7 +1188,7 @@
                {
                 "name": "Houston Cougars",
                 "state": "Texas",
-                "abbreviation": "Hou",
+                "abbreviation": "HOU",
                 "rival": ["TT"],
                 "rivalryNames": {},
                 "prestige": "77",
