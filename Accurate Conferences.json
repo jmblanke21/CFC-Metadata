@@ -728,7 +728,7 @@
                 "rivalryNames": {
                     "ORE": "Civil War"
                 },
-                "prestige": "70",
+                "prestige": "71",
                 "hexColor": "#DC4405"
               },
               {
@@ -766,7 +766,7 @@
                 "abbreviation": "CU",
                 "rival": ["NEB"],
                 "rivalryNames": {},
-                "prestige": "72",
+                "prestige": "70",
                 "hexColor": "#CFB87C"
               },
               {
@@ -837,7 +837,7 @@
                 "abbreviation": "PRIN",
                 "rival": ["PENN"],
                 "rivalryNames": {},
-                "prestige": "63",
+                "prestige": "62",
                 "hexColor": "#FF6000"
               },
               {
@@ -846,7 +846,7 @@
                 "abbreviation": "PENN",
                 "rival": ["PRIN"],
                 "rivalryNames": {},
-                "prestige": "57",
+                "prestige": "60",
                 "hexColor": "#011F5B"
               },
               {
@@ -855,7 +855,7 @@
                 "abbreviation": "RICH",
                 "rival": ["DEL"],
                 "rivalryNames": {},
-                "prestige": "63",
+                "prestige": "60",
                 "hexColor": "#C32032"
               },
               {
@@ -864,7 +864,7 @@
                 "abbreviation": "DEL",
                 "rival": ["RICH"],
                 "rivalryNames": {},
-                "prestige": "60",
+                "prestige": "62",
                 "hexColor": "#00539F"
               },
               {
@@ -925,7 +925,7 @@
                 "abbreviation": "YSU",
                 "rival": ["BUF"],
                 "rivalryNames": {},
-                "prestige": "57",
+                "prestige": "60",
                 "hexColor": "#C8102E"
               },
               {
@@ -943,7 +943,7 @@
                 "abbreviation": "WKU",
                 "rival": ["MOH"],
                 "rivalryNames": {},
-                "prestige": "61",
+                "prestige": "60",
                 "hexColor": "#C60C30"
               },
               {
@@ -961,7 +961,7 @@
                 "abbreviation": "BALL",
                 "rival": ["NIU"],
                 "rivalryNames": {},
-                "prestige": "60",
+                "prestige": "61",
                 "hexColor": "#BA0C2F"
               },
               {
@@ -1024,7 +1024,7 @@
                 "abbreviation": "UTST",
                 "rival": ["NM"],
                 "rivalryNames": {},
-                "prestige": "60",
+                "prestige": "62",
                 "hexColor": "#00263A"
               },
               {
@@ -1051,7 +1051,7 @@
                 "abbreviation": "WYO",
                 "rival": ["MON"],
                 "rivalryNames": {},
-                "prestige": "63",
+                "prestige": "62",
                 "hexColor": "#492F24"
                },
                {
@@ -1103,7 +1103,7 @@
                 "abbreviation": "ODU",
                 "rival": ["JMU"],
                 "rivalryNames": {},
-                "prestige": "57",
+                "prestige": "60",
                 "hexColor": "#7C878E"
               },          
               {
@@ -1148,7 +1148,7 @@
                 "abbreviation": "GSO",
                 "rival": ["UAB"],
                 "rivalryNames": {},
-                "prestige": "57",
+                "prestige": "62",
                 "hexColor": "#011E41"
               },
               {
@@ -1157,7 +1157,7 @@
                 "abbreviation": "FAMU",
                 "rival": ["FAU"],
                 "rivalryNames": {},
-                "prestige": "57",
+                "prestige": "60",
                 "hexColor": "#008344"
               },
               {
@@ -1258,7 +1258,7 @@
                 "rivalryNames": {
                     "JSU": "Soul Bowl"
                 },
-                "prestige": "57",
+                "prestige": "62",
                 "hexColor": "#46166A"
               },
               {
@@ -1269,7 +1269,7 @@
                 "rivalryNames": {
                     "SOU": "Bayou Classic"
                 },
-                "prestige": "63",
+                "prestige": "62",
                 "hexColor": "#000000"
               },
               {
