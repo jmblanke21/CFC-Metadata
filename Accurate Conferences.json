@@ -837,7 +837,7 @@
                 "abbreviation": "PRIN",
                 "rival": ["PENN"],
                 "rivalryNames": {},
-                "prestige": "62",
+                "prestige": "60",
                 "hexColor": "#FF6000"
               },
               {
@@ -846,7 +846,7 @@
                 "abbreviation": "PENN",
                 "rival": ["PRIN"],
                 "rivalryNames": {},
-                "prestige": "60",
+                "prestige": "61",
                 "hexColor": "#011F5B"
               },
               {
@@ -1258,7 +1258,7 @@
                 "rivalryNames": {
                     "JSU": "Soul Bowl"
                 },
-                "prestige": "62",
+                "prestige": "63",
                 "hexColor": "#46166A"
               },
               {
