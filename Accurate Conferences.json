@@ -4,10 +4,8 @@
     "XII": "SECW",
     "COL": "B1GE",
     "PAC": "B1GW",
-    "SUNE": "ACC",
-    "SUNW": "XII",
-    "MAC": "COL",
-    "MWC": "PAC"
+    "SUNE": "MAC",
+    "SUNW": "MWC"
   },
   "baseYear": 2022,
   "relegationRoutes": {
@@ -15,10 +13,8 @@
     "SECW": "XII",
     "B1GE": "COL",
     "B1GW": "PAC",
-    "ACC": "SUNE",
-    "XII": "SUNW",
-    "COL": "MAC",
-    "PAC": "MWC"
+    "MAC": "SUNE",
+    "MWC": "SUNW"
   },
   "conferences": [
     {
